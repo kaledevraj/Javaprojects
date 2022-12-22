@@ -2,3 +2,6 @@ Variables are small leters.
 
 Java is a platfrom independent language.
 Java is a Object Oriented programming.
+
+
+final copy
